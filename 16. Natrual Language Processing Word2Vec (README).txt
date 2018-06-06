@@ -1,0 +1,5 @@
+16. Natrual Language Processing Word2Vec
+
+This repository dives into the basics of a Word2Vec Module.
+
+It shows the usage of word2vec in converting words into vectors for processing in ML Models.
